@@ -4,7 +4,6 @@
     [Owner]                     NVARCHAR (MAX) NULL,
     [IsResort]                  BIT            NOT NULL,
     [Destination_DestinationId] INT            NULL,
-    [MilesFromNearestAirport] DECIMAL(18, 2) NULL, 
     CONSTRAINT [PK_dbo.Lodgings] PRIMARY KEY CLUSTERED ([LodgingId] ASC),
     CONSTRAINT [FK_dbo.Lodgings_dbo.Destinations_Destination_DestinationId] FOREIGN KEY ([Destination_DestinationId]) REFERENCES [dbo].[Destinations] ([DestinationId])
 );
