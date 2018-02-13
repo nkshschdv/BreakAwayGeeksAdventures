@@ -1,0 +1,9 @@
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\bin\Debug\BreakAwayGeeksAdventures.dacpac
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\bin\Debug\BreakAwayGeeksAdventures.dll
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\bin\Debug\BreakAwayGeeksAdventures.pdb
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\Model.xml
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\refactor.xml
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\postdeploy.sql
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\predeploy.sql
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\BreakAwayGeeksAdventures.dll
+c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\obj\Debug\BreakAwayGeeksAdventures.pdb

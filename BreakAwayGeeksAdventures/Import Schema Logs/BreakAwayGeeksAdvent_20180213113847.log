@@ -1,0 +1,84 @@
+13-02-2018 17:08:47	This log contains information about the import schema operation into project 'BreakAwayGeeksAdventures' on computer 'DEEPAK' by user 'deepak.kumar'.
+13-02-2018 17:08:47	Import of database schema has started.
+13-02-2018 17:08:53	Gathering database credentials
+13-02-2018 17:08:53	Gathering database options
+13-02-2018 17:08:53	Gathering users
+13-02-2018 17:08:53	Gathering roles
+13-02-2018 17:08:53	Gathering application roles
+13-02-2018 17:08:53	Gathering role memberships
+13-02-2018 17:08:53	Gathering filegroups
+13-02-2018 17:08:53	Gathering full-text catalogs
+13-02-2018 17:08:53	Gathering assemblies
+13-02-2018 17:08:53	Gathering certificates
+13-02-2018 17:08:53	Gathering asymmetric keys
+13-02-2018 17:08:53	Gathering symmetric keys
+13-02-2018 17:08:53	Gathering encrypted symmetric keys
+13-02-2018 17:08:53	Gathering schemas
+13-02-2018 17:08:53	Gathering XML schema collections
+13-02-2018 17:08:53	Gathering user-defined data types
+13-02-2018 17:08:53	Gathering user-defined types
+13-02-2018 17:08:53	Gathering table types
+13-02-2018 17:08:53	Gathering unique keys for table types
+13-02-2018 17:08:53	Gathering primary keys for table types
+13-02-2018 17:08:53	Gathering indexes for table types
+13-02-2018 17:08:53	Gathering check constraints for table types
+13-02-2018 17:08:53	Gathering default constraints for table types
+13-02-2018 17:08:53	Gathering partition functions
+13-02-2018 17:08:53	Gathering partition schemes
+13-02-2018 17:08:53	Gathering functions
+13-02-2018 17:08:53	Gathering encrypted functions
+13-02-2018 17:08:53	Gathering aggregates
+13-02-2018 17:08:53	Gathering procedures
+13-02-2018 17:08:53	Gathering encrypted procedures
+13-02-2018 17:08:53	Gathering tables
+13-02-2018 17:08:53	Gathering primary keys
+13-02-2018 17:08:53	Gathering unique constraints
+13-02-2018 17:08:53	Gathering foreign keys
+13-02-2018 17:08:53	Gathering default constraints
+13-02-2018 17:08:53	Gathering check constraints
+13-02-2018 17:08:53	Gathering views
+13-02-2018 17:08:53	Gathering encrypted views
+13-02-2018 17:08:53	Gathering indexes
+13-02-2018 17:08:53	Gathering statistics
+13-02-2018 17:08:53	Gathering full-text index stoplists
+13-02-2018 17:08:53	Gathering search property lists
+13-02-2018 17:08:53	Gathering search properties
+13-02-2018 17:08:53	Gathering full-text indexes
+13-02-2018 17:08:53	Gathering column store indexes
+13-02-2018 17:08:53	Gathering spatial indexes
+13-02-2018 17:08:53	Gathering XML indexes
+13-02-2018 17:08:53	Gathering Selective XML indexes
+13-02-2018 17:08:53	Gathering encrypted triggers
+13-02-2018 17:08:53	Gathering triggers
+13-02-2018 17:08:53	Gathering encrypted and clr ddl triggers
+13-02-2018 17:08:53	Gathering ddl triggers
+13-02-2018 17:08:53	Gathering synonyms
+13-02-2018 17:08:53	Gathering defaults
+13-02-2018 17:08:53	Gathering data constraint uddt bindings
+13-02-2018 17:08:53	Gathering rules
+13-02-2018 17:08:53	Gathering data constraint uddt bindings
+13-02-2018 17:08:53	Gathering message types
+13-02-2018 17:08:53	Gathering queues
+13-02-2018 17:08:53	Gathering contracts
+13-02-2018 17:08:53	Gathering services
+13-02-2018 17:08:53	Gathering event notifications
+13-02-2018 17:08:53	Gathering remote service bindings
+13-02-2018 17:08:53	Gathering broker priorities
+13-02-2018 17:08:53	Gathering signatures
+13-02-2018 17:08:53	Gathering data compression options
+13-02-2018 17:08:53	Gathering sequence types
+13-02-2018 17:08:53	Gathering security policies
+13-02-2018 17:08:53	Gather column encryption keys
+13-02-2018 17:08:53	Gathering column master keys
+13-02-2018 17:08:53	Gathering external data sources
+13-02-2018 17:08:53	Gathering external file formats
+13-02-2018 17:08:53	Gathering external tables
+13-02-2018 17:08:53	Gathering extended properties
+13-02-2018 17:08:54	Gathering credentials
+13-02-2018 17:08:54	Gathering logins
+13-02-2018 17:08:54	Gathering server audits
+13-02-2018 17:08:54	Scanning project for duplicate elements
+13-02-2018 17:08:54	Finished duplicate element processing
+13-02-2018 17:08:54	Finished importing database.
+13-02-2018 17:08:54	A summary of the import was saved to the following location: c:\users\deepak.kumar\source\repos\BreakAwayGeeksAdventures\BreakAwayGeeksAdventures\Import Schema Logs\BreakAwayGeeksAdvent_20180213113847.log
+13-02-2018 17:08:54	Click Finish to continue...
